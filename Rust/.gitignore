@@ -1,0 +1,19 @@
+# Rust / Cargo build output
+target/
+
+# Executables (Windows)
+*.exe
+*.pdb
+
+# Mac/Linux binaries
+*.dSYM/
+*.out
+
+# VS Code settings (optional, but recommended)
+.vscode/
+
+# Logs
+*.log
+
+# Backup files
+*~
