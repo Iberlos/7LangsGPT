@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\luisf\\OneDrive\\Documents\\Development\\General Tutorials\\7langsGPT\\CSharp\\Week1\\Day6\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{368BF7E9-7144-47C5-AE4A-38C0FA284969}|Day6\\Day6.csproj|c:\\users\\luisf\\onedrive\\documents\\development\\general tutorials\\7langsgpt\\csharp\\week1\\day6\\day6\\ex5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{368BF7E9-7144-47C5-AE4A-38C0FA284969}|Day6\\Day6.csproj|solutionrelative:day6\\ex5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368BF7E9-7144-47C5-AE4A-38C0FA284969}|Day6\\Day6.csproj|c:\\users\\luisf\\onedrive\\documents\\development\\general tutorials\\7langsgpt\\csharp\\week1\\day6\\day6\\day6.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{368BF7E9-7144-47C5-AE4A-38C0FA284969}|Day6\\Day6.csproj|solutionrelative:day6\\day6.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368BF7E9-7144-47C5-AE4A-38C0FA284969}|Day6\\Day6.csproj|c:\\users\\luisf\\onedrive\\documents\\development\\general tutorials\\7langsgpt\\csharp\\week1\\day6\\day6\\ex3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{368BF7E9-7144-47C5-AE4A-38C0FA284969}|Day6\\Day6.csproj|solutionrelative:day6\\ex3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368BF7E9-7144-47C5-AE4A-38C0FA284969}|Day6\\Day6.csproj|c:\\users\\luisf\\onedrive\\documents\\development\\general tutorials\\7langsgpt\\csharp\\week1\\day6\\day6\\ex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{368BF7E9-7144-47C5-AE4A-38C0FA284969}|Day6\\Day6.csproj|solutionrelative:day6\\ex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368BF7E9-7144-47C5-AE4A-38C0FA284969}|Day6\\Day6.csproj|c:\\users\\luisf\\onedrive\\documents\\development\\general tutorials\\7langsgpt\\csharp\\week1\\day6\\day6\\ex4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{368BF7E9-7144-47C5-AE4A-38C0FA284969}|Day6\\Day6.csproj|solutionrelative:day6\\ex4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{368BF7E9-7144-47C5-AE4A-38C0FA284969}|Day6\\Day6.csproj|c:\\users\\luisf\\onedrive\\documents\\development\\general tutorials\\7langsgpt\\csharp\\week1\\day6\\day6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{368BF7E9-7144-47C5-AE4A-38C0FA284969}|Day6\\Day6.csproj|solutionrelative:day6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368BF7E9-7144-47C5-AE4A-38C0FA284969}|Day6\\Day6.csproj|c:\\users\\luisf\\onedrive\\documents\\development\\general tutorials\\7langsgpt\\csharp\\week1\\day6\\day6\\ex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{368BF7E9-7144-47C5-AE4A-38C0FA284969}|Day6\\Day6.csproj|solutionrelative:day6\\ex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +38,94 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Day6",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Documents\\Development\\General Tutorials\\7langsGPT\\CSharp\\Week1\\Day6\\Day6\\Day6.csproj",
+              "RelativeDocumentMoniker": "Day6\\Day6.csproj",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Documents\\Development\\General Tutorials\\7langsGPT\\CSharp\\Week1\\Day6\\Day6\\Day6.csproj",
+              "RelativeToolTip": "Day6\\Day6.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-04T14:21:05.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ex5.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Documents\\Development\\General Tutorials\\7langsGPT\\CSharp\\Week1\\Day6\\Day6\\ex5.cs",
+              "RelativeDocumentMoniker": "Day6\\ex5.cs",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Documents\\Development\\General Tutorials\\7langsGPT\\CSharp\\Week1\\Day6\\Day6\\ex5.cs",
+              "RelativeToolTip": "Day6\\ex5.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T14:05:25.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ex4.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Documents\\Development\\General Tutorials\\7langsGPT\\CSharp\\Week1\\Day6\\Day6\\ex4.cs",
+              "RelativeDocumentMoniker": "Day6\\ex4.cs",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Documents\\Development\\General Tutorials\\7langsGPT\\CSharp\\Week1\\Day6\\Day6\\ex4.cs",
+              "RelativeToolTip": "Day6\\ex4.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T14:05:17.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ex3.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Documents\\Development\\General Tutorials\\7langsGPT\\CSharp\\Week1\\Day6\\Day6\\ex3.cs",
+              "RelativeDocumentMoniker": "Day6\\ex3.cs",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Documents\\Development\\General Tutorials\\7langsGPT\\CSharp\\Week1\\Day6\\Day6\\ex3.cs",
+              "RelativeToolTip": "Day6\\ex3.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA6wA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T14:05:09.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ex2.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Documents\\Development\\General Tutorials\\7langsGPT\\CSharp\\Week1\\Day6\\Day6\\ex2.cs",
+              "RelativeDocumentMoniker": "Day6\\ex2.cs",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Documents\\Development\\General Tutorials\\7langsGPT\\CSharp\\Week1\\Day6\\Day6\\ex2.cs",
+              "RelativeToolTip": "Day6\\ex2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T14:04:48.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ex1.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Documents\\Development\\General Tutorials\\7langsGPT\\CSharp\\Week1\\Day6\\Day6\\ex1.cs",
+              "RelativeDocumentMoniker": "Day6\\ex1.cs",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Documents\\Development\\General Tutorials\\7langsGPT\\CSharp\\Week1\\Day6\\Day6\\ex1.cs",
+              "RelativeToolTip": "Day6\\ex1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T14:03:09.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Documents\\Development\\General Tutorials\\7langsGPT\\CSharp\\Week1\\Day6\\Day6\\Program.cs",
               "RelativeDocumentMoniker": "Day6\\Program.cs",
               "ToolTip": "C:\\Users\\luisf\\OneDrive\\Documents\\Development\\General Tutorials\\7langsGPT\\CSharp\\Week1\\Day6\\Day6\\Program.cs",
               "RelativeToolTip": "Day6\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-03T14:32:28.521Z",
               "EditorCaption": ""
